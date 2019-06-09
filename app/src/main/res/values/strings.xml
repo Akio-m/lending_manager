@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">lending manager</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_finish">アプリ終了</string>
+    <string name="menu_mail">メールで共有</string>
+    <string name="menu_history">貸出履歴</string>
 </resources>
