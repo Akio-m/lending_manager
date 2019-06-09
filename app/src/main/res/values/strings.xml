@@ -4,4 +4,10 @@
     <string name="menu_finish">アプリ終了</string>
     <string name="menu_mail">メールで共有</string>
     <string name="menu_history">貸出履歴</string>
+    <string name="toast_finish">アプリを終了します</string>
+    <string name="createLend">レンタル開始</string>
+    <string name="cancel">取り消し</string>
+    <string name="returnDate">返却予定日(Optional)</string>
+    <string name="holder">借用者</string>
+    <string name="itemNameText">貸出物品</string>
 </resources>
